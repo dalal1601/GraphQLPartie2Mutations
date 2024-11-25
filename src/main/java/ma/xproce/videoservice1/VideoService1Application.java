@@ -35,22 +35,22 @@ public class VideoService1Application {
                     Video.builder()
                             .name("vEducation")
                             .url("vEducation.com")
-                            .description("looool")
-                            .datePublication(new Date())
+                            .description("fghjk")
+                            .datePublication("25/01/2000")
                             .creator(creatorList.get(0)) // Assigning creator
                             .build(),
                     Video.builder()
                             .name("vGaming")
                             .url("vEGaming.com")
-                            .description("looool")
-                            .datePublication(new Date())
+                            .description("azertyu")
+                            .datePublication("25/01/2000")
                             .creator(creatorList.get(1)) // Assigning creator
                             .build(),
                     Video.builder()
                             .name("vEntertainment")
                             .url("vEntertainment.com")
-                            .description("looool")
-                            .datePublication(new Date())
+                            .description("hhhh")
+                            .datePublication("25/01/2000")
                             .creator(creatorList.get(2)) // Assigning creator
                             .build()
             );
